@@ -1,0 +1,5 @@
+build
+*.xcodeproj/*.tm_build_errors
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspectivev3
+tmtags
